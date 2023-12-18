@@ -83,5 +83,4 @@ Create a new environment with Streamlit
 
 ## Authors
 Contributors names and contact info:
-Indu Raju - induraju@buffalo.edu
-Kaviyaa Vasudevan - kaviyaav@buffalo.edu
+Arun Kumar Srinivasan - arunsrinivas1998@gmail.com
